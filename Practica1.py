@@ -1,5 +1,5 @@
 '''
-Tomar los siguientes valores de la temrinal  a través
+Tomar los siguientes valores de la terminal  a través
 del usuario
 
 VARIABLES:
@@ -34,6 +34,7 @@ RESULTADO:
 |    MATERIA 2                                    AU
 |    MATERIA 3                                    DE
 |    MATERIA 4                                    DE
+|    MATERIA N                                    SA
 '''
 print('+------------------------------------------------------')
 print('|\tUniversidad tecnológica de querétaro')
@@ -42,6 +43,9 @@ print('|\t_NOMBRE_\t_MATRICULA_\t_GRUPO_')
 print('+------------------------------------------------------')
 print('|                     TIRA DE MATERIAS')
 print('+------------------------------------------------------')
-
-
-
+print('|\tMATERIA 1\t\t\tSA')
+print('|\tMATERIA 2\t\t\tSA')
+print('|\tMATERIA 3\t\t\tSA')
+print('|\tMATERIA 4\t\t\tSA')
+print('|\tMATERIA 5\t\t\tSA')
+print('|\tMATERIA N\t\t\tSA')
